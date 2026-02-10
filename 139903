@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 30px;
+}
+
+.profile-pic {
+    width: 50px;
+    border-radius: 30%;
+}
+
+section {
+    padding: 30px;
+    background: white;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tushabe Junior | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <img src="junior.jpg" alt="junior.jpg" class="junior.jpg">
+    <h1>Tushabe Junior</h1>
+    <p>BSIT Student | Web and Mobile Application Development</p>
+</header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+        My name is Tushabe Junior, a Bachelor of Science in Information Technology
+        (BSIT) student specializing in Web and Mobile Application Development.
+        I am interested in building modern websites and learning new technologies.
+    </p>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+    <ul>
+        <li><strong>Project 1:</strong> Personal Portfolio Website using HTML and CSS</li>
+        <li><strong>Project 2:</strong> JavaScript Calculator Application</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: tushabejunior@email.com</p>
+    <p>GitHub:
+        <a href="https://github.com/yourusername" target="_blank">
+            https://github.com/yourusername
+        </a>
+    </p>
+    <p>LinkedIn:
+        <a href="#" target="_blank">LinkedIn Profile</a>
+    </p>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
